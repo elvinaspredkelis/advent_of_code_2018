@@ -1,7 +1,7 @@
 # Advent of Code 2018 
 Trying to go through the this year's advent of code by writing readable and understandable code.
 
-This is definitely not a repository where you can find a the fastest or shortest solutions. 
+This is definitely not a repository where you can find a the _fastest_ or _shortest_ solutions. 
 
 ## Progress
 
@@ -12,4 +12,4 @@ This is definitely not a repository where you can find a the fastest or shortest
 
 ## Inputs
 
-All inputs (that were generated for me) are in the /inputs folder.
+All inputs (that were generated for me) are in the **/inputs** folder.
