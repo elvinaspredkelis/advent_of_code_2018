@@ -1,7 +1,7 @@
 # 🎅🏼 Advent of Code 2018 
 Trying to go through the this year's advent of code by writing readable and understandable code.
 
-This is definitely not a repository where you can find a the _fastest_ or _shortest_ solutions. Everything over here is written in Ruby as well, so this is literally a relaxed attempt to enjoy coding.
+This is definitely not a repository where you can find a the _fastest_ or _shortest_ solutions. Everything over here is written in Ruby as well, so this is literally a relaxed attempt to enjoy some coding.
 
 ## Progress
 
