@@ -8,7 +8,7 @@ This is definitely not a repository where you can find a the _fastest_ or _short
 | Day | Stars | 
 |---|:---:|
 | Day 1: Chronal Calibration | ⭐️ ⭐️  |
-| Day 2: Inventory Management System | ⭐️  |
+| Day 2: Inventory Management System | ⭐️ ⭐️ |
 | Day 3: No Matter How You Slice It | ⭐️  |
 
 ## Inputs
