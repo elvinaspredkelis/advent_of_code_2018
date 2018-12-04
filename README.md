@@ -1,4 +1,4 @@
-# Advent of Code 2018 
+# 🎅🏼 Advent of Code 2018 
 Trying to go through the this year's advent of code by writing readable and understandable code.
 
 This is definitely not a repository where you can find a the _fastest_ or _shortest_ solutions. 
